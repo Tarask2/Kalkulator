@@ -9,19 +9,15 @@ class KalkulatorApplicationTests {
     @Autowired
     @Test
     void min() {
-        System.out.println("Min");
     }
 
     @Autowired
     @Test
     void max() {
-        System.out.println("Max");
     }
-
     @Autowired
     @Test
     void isPositive() {
-        System.out.println("Wartosz dodatnia/ujemna");
     }
 
 }
